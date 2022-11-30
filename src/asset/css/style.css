@@ -1,0 +1,7 @@
+.counter{
+    height: 10rem;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
