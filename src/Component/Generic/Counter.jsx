@@ -21,7 +21,7 @@ export default function Counter({setCounter}) {
     };
   }, [text,setCounter]);
   return (
-    <div className="counter w-100">
+    <div className="counter w-100 mt-3">
       <button className="btn btn-sm w-100 btn-danger text-light text-center">
         Current Value :{currValue}
       </button>
